@@ -7,7 +7,7 @@
       "id": "123456789012345678"
     }
   ],
-  "main": "index.js",
+  "main": "src/index.js",
   "vendetta": {
     "icon": "ic_calendar_24px"
   }
